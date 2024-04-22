@@ -34,6 +34,7 @@ const Contact = () => {
 
                 <div className='flex flex-row items-center w-full md:w-2/4 my-5'>
                     <img className="rounded-md" src={img} alt="img" />
+                    <h1>COntact</h1>
                 </div>
             </div>
         </div>
