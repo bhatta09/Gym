@@ -10,7 +10,6 @@ const PlansCard = (props) => {
 
         <div className='flex flex-row justify-center items-center'>
             <span className='inline-block'>
-                <MdOutlineAttachMoney size={22} />
             </span>
             <h3 className='font-semibold text-xl inline-block'>{props.price}</h3>
         </div>

@@ -14,7 +14,7 @@ const Navbar = () => {
             <div className='md:fixed flex flex-row justify-between md:px-32 px-5 gap-16'>
                 <div className='flex items-center p-2'>
                     <Link to="/" spy={true} smooth={true} duration={500}>
-                        <h1 className='font-semibold text-2xl text-brightRed'>FitZone</h1>
+                        <h1 className='font-semibold text-2xl text-brightRed'>Gym-HUB</h1>
                     </Link>
                 </div>
                 <nav className='hidden md:flex items-center p-2 gap-5'>

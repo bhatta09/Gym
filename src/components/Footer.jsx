@@ -8,7 +8,7 @@ const Footer = () => {
             <div className='flex flex-col md:flex-row justify-between md:px-32 px-5 p-5'>
                 <div className='w-full md:w-1/4'>
                     <Link to="/">
-                        <h1 className='font-semibold text-2xl text-brightRed'>FitZone</h1>
+                        <h1 className='font-semibold text-2xl text-brightRed'>Gym-Hub</h1>
                     </Link>
                     <p className='mt-4'>
                        Live healthier & happier.
