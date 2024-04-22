@@ -12,7 +12,7 @@ const Trainers = () => {
         <div className="flex flex-col md:flex-row justify-center mt-10 gap-8">
             <TrainerCard img={img1} name="Brock" />
             <TrainerCard img={img2} name="Laura" />
-            <TrainerCard img={img3} name="Manoj" />
+            <TrainerCard img={img3} name="Osprey" />
         </div>
     </div>
   )
